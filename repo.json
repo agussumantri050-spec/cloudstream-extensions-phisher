@@ -1,0 +1,8 @@
+{
+  "name": "Agus Phisher Fork",
+  "description": "CloudStream extensions fork dari phisher98 — termasuk Idlix fix",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/agussumantri050-spec/cloudstream-extensions-phisher/builds/plugins.json"
+  ]
+}
